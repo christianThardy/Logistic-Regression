@@ -25,8 +25,8 @@ sns.regplot(x = 'Age', y = 'Purchased', data = df)
 plt.show()
 
 
-''' Data can clearly be separated by a non-linear solution
-   a rescaled logistic sigmoid function may be the best solution for now '''
+''' Data can clearly be separated by a non-linear solution.
+   a rescaled logistic sigmoid function may be the best solution for now. '''
 
 age = sns.FacetGrid(data, hue = 'Purchased', size = 5,
                     palette = 'Blues_r').map(plt.scatter,
@@ -72,7 +72,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, rando
 ''' The hyperbolic tangent activation function is sigmoidal in shape,
 0 is more sharply defined and is more efficient than the logistic 
 function because larger derivatives means faster minimization of
-the loss function '''
+the loss function. '''
 
 x = np.arange(-5,5,0.01)
 y = (2/(1 + np.exp(-2*x))) - 1
