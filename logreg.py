@@ -45,7 +45,7 @@ plt.show()
 
 # Data preprocessing
 
-Purchased = ['Zero', 'One'] # Output
+Purchased = [0, 1] # Output
 e = purch_hist.shape[0] # Examples
 f = 2 # Features
 k = 2 # Classes
