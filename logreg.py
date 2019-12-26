@@ -1,6 +1,3 @@
-# Logistic Regression a few hundred lines of numPy
-
-
 # Dependencies
 
 import warnings
