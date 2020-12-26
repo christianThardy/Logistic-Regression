@@ -5,8 +5,12 @@ This timeless classification algorithm was trained on the same data used in this
 ![2020-12-09](https://user-images.githubusercontent.com/29679899/101676964-e8477780-3a29-11eb-99f4-9de05ac1c28e.png)
 ### Logistic Regression
 
+<br/>
+
 ![2020-12-09](https://user-images.githubusercontent.com/29679899/101676996-f8f7ed80-3a29-11eb-911e-a48e2dc93247.gif)
 ### Feed-Forward Neural Network
+
+<br/>
 
 They're both good predictors, they both provide a functional form f and parameter vector a to express `P(y|x)` as...
  
