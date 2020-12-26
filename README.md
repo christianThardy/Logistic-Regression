@@ -28,6 +28,6 @@ At the end of the day, the data will determine what type of architecture you sho
  
 Without verifying that the data used in a regression model meets a specific set of assumptions, the results of a given test could possibly be misleading. In a later post we'll discuss diagnosing the assumptions of logistic regression to properly validate the model and its statistical inferences. Some of these assumptions will shed light onto the linearity, normality, homoscedasticity and measurement level of logistic regression models.
 
-</path></svg></a>Reference for regularized loss function and gradient:</h4>
+<b></path></svg></a>Reference for regularized loss function and gradient:</h4><b/>
 
 ![reference](https://user-images.githubusercontent.com/29679899/59174372-155a5780-8b1f-11e9-9e33-102b89d42816.png)
