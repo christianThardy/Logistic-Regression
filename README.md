@@ -1,9 +1,5 @@
 # Logistic Regression
 
-</path></svg></a>Reference for regularized loss function and gradient:</h4>
-
-![reference](https://user-images.githubusercontent.com/29679899/59174372-155a5780-8b1f-11e9-9e33-102b89d42816.png)
-
 This timeless classification algorithm was trained on the same data used in this <a href="https://github.com/christianThardy/Feed-Forward-Artificial-Neural-Network" title="xtiandata.com" rel="nofollow">repo</a> to illustrate testing a range of network architectures to solve the same classification problem. The accuracy of the network in the aforementioned post was 88% while the accuracy of this logistic classifier is 92% approximately. Their architecture is similar: 
 
 ![2020-12-09](https://user-images.githubusercontent.com/29679899/101676964-e8477780-3a29-11eb-99f4-9de05ac1c28e.png)
@@ -27,3 +23,7 @@ Understanding why your model arrived at a particular answer is important if you'
 At the end of the day, the data will determine what type of architecture you should use. In terms of flexibility, a neural network's decision boundary is as state-of-the-art as universal approximation can get, but when you're facing hurdles like interpretability, computational expense, turnaround time, debugging or other various machine learning bottlenecks, the simplest solution is sometimes the best. 
  
 Without verifying that the data used in a regression model meets a specific set of assumptions, the results of a given test could possibly be misleading. In a later post we'll discuss diagnosing the assumptions of logistic regression to properly validate the model and its statistical inferences. Some of these assumptions will shed light onto the linearity, normality, homoscedasticity and measurement level of logistic regression models.
+
+</path></svg></a>Reference for regularized loss function and gradient:</h4>
+
+![reference](https://user-images.githubusercontent.com/29679899/59174372-155a5780-8b1f-11e9-9e33-102b89d42816.png)
