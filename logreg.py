@@ -115,6 +115,7 @@ def log_ reg_optimal_theta(X, y, theta):
 all_theta = np.zeros((k, f + 1))
 i = 0
 
+
 # Training 
 for purchase in Purchased:
 	
